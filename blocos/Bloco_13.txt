@@ -1,0 +1,5 @@
+Origem: Cook
+Destino: Ross
+Mensagem: Ola Cook. Meu nome é Ross
+Hash: bc6277551551ba426a74997ca6af400dc1c675ec6228edb3e0d31758ee2a35e0
+Hash Anterior: bfa7acadcb776b01592c828d2b642e147ddc9967449c31a4960d27553946d363
